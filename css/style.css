@@ -1124,8 +1124,6 @@ textarea {
     top: 0;
     right: 0;
     z-index: -2;
-    /* box-shadow: 0 0px 1px 0 rgb(0, 0, 0); */
-    /* background-color: #fff; */
     transition: all .3s ease;
   }
   
@@ -1234,5 +1232,3 @@ textarea {
   .menu-item.purple{
     background-color: #7843e9;
   }
-
-

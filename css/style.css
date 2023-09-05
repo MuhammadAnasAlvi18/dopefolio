@@ -931,6 +931,14 @@ textarea {
     .heading-sec__mb-med{margin-bottom: 0;}
     .pre-loader .loader{width:60px;height:60px}
     .pre-loader .loader span::before{width:10px;height:10px}
+    .project-cs-hero__content{padding: 16em 0;}
+    .project-details .projects__row-content-desc{text-align: left;}
+    .project-details{padding: 0 30px;}
+    .project-details__links-btn{padding:16px 30px!important;margin-right:10px}
+}
+@media only screen and (min-width: 320px) and (max-width: 400px){
+    .project-cs-hero__content{padding: 12em 0;}
+    .project-details__links-btn{padding:16px 0px!important;width: 100%;margin-bottom: 20px;text-align: center;}
 }
 @media only screen and (min-width: 375px) and (max-width: 424px) {
 }
@@ -967,6 +975,9 @@ textarea {
     .contact__form-container{padding: 40px;width: 80%;}
     .pre-loader .loader{width:60px;height:60px}
     .pre-loader .loader span::before{width:10px;height:10px}
+    .project-cs-hero__content{padding: 16em 0;}
+    .project-details .projects__row-content-desc{text-align: left;}
+    .project-details{padding: 0 10px;}
 }
 @media only screen and (min-width:768px) and (max-width: 991px) {
     .header__logo-sub,.header__link{font-size:14px}
@@ -998,6 +1009,8 @@ textarea {
     .main-footer__short-desc{font-size: 15px;}
     .pre-loader .loader{width:60px;height:60px}
     .pre-loader .loader span::before{width:10px;height:10px}
+    .project-cs-hero__content{padding: 16em 0;}
+    .project-details .projects__row-content-desc{text-align: left;}
 }
 @media only screen and (min-width:992px) and (max-width: 1199px) {
     .header__logo-sub,.header__link{font-size:14px}
